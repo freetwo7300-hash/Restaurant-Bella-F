@@ -1,0 +1,77 @@
+{
+  "restaurant": {
+    "name": "Bella Restaurant",
+    "tagline": "Modern Italian Cuisine with a Touch of Elegance",
+    "description": "Experience the finest Italian flavors in a modern, sophisticated atmosphere. Our chefs use only the freshest ingredients to craft unforgettable dishes.",
+    "openingHours": "Mon-Sun: 11:00 AM - 11:00 PM",
+    "contact": {
+      "phone": "+1 (555) 123-4567",
+      "email": "hello@bellarestaurant.com",
+      "address": "123 Gourmet Way, Culinary City, Foodland"
+    }
+  },
+  "menu": [
+    {
+      "id": 1,
+      "name": "Charcoal Grilled Ribeye",
+      "description": "Prime aged ribeye grilled to perfection over natural charcoal, served with salted rosemary butter.",
+      "price": 38.00,
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1546241072-48010ad28c2c?auto=format&fit=crop&q=80&w=800",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Truffle Burrata Pizza",
+      "description": "Creamy burrata, black truffle shavings, caramelized onions, and truffle-infused honey drizzle.",
+      "price": 26.00,
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Glazed Atlantic Salmon",
+      "description": "Honey-miso glazed salmon served with parsnip silk and charred heirloom carrots.",
+      "price": 32.00,
+      "category": "Main Course",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=800",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Ocean Scallops",
+      "description": "Pan-seared jumbo scallops with cauliflower puree, crisp pancetta, and micro-herbs.",
+      "price": 54.00,
+      "category": "Signature",
+      "image": "https://images.unsplash.com/photo-1532639193380-da959828598a?auto=format&fit=crop&q=80&w=800",
+      "rating": 5
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Johnathan Doe",
+      "role": "Food Critic",
+      "comment": "An incredible experience. The Truffle Burrata Pizza is a revelation, and the wine pairings were masterful.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+    },
+    {
+      "id": 2,
+      "name": "Mila Kunis",
+      "role": "Loyal Guest",
+      "comment": "The atmosphere at Bella is unmatched. Perfect for romantic dinners and professional gatherings. Impeccable attention.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200"
+    },
+    {
+      "id": 3,
+      "name": "Robert Stone",
+      "role": "Chef Consultant",
+      "comment": "Finally, a restaurant that understands the balance between innovation and tradition. Every dish tells a story.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200"
+    }
+  ]
+}
