@@ -40,3 +40,44 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+*.tgz
+*.tar.gz
+
+# Coverage directory
+coverage/
+*.lcov
+.nyc_output
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Netlify
+.netlify/
+
+# Vercel
+.vercel
+
+# Docker
+docker-compose.override.yml
+
+# Lighthouse reports
+lighthouse-report.html
+lhci_reports/
+
+# SonarQube
+.sonarqube/
+.scannerwork/
+
+# Security
+*.pem
+*.key
+ssl/
