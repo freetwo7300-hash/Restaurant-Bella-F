@@ -17,6 +17,18 @@ The project follows a modular **Core/Shared/Features/Layout** pattern:
 - `features/`: Business logic and specific feature components (Home, Menu, Booking).
 - `layout/`: Main application structure components.
 
+## 📁 Project Structure
+```
+├── src/                    # Source code
+├── public/                 # Static assets
+├── config/                 # Configuration files
+│   ├── deployment/         # Deployment configurations
+│   └── quality/           # Code quality tools
+├── docs/                  # Documentation
+├── scripts/               # Build and deployment scripts
+└── screenshots/           # UI screenshots
+```
+
 ## 🛠️ Getting Started
 1. Clone the repository.
 2. Run `npm install`.
@@ -24,8 +36,10 @@ The project follows a modular **Core/Shared/Features/Layout** pattern:
 4. Open `http://localhost:4200` in your browser.
 
 ## 📄 Documentation
-Check the `docs/` folder for design patterns and architecture details.
-Screenshots of the UI can be found in the `screenshots/` folder.
+- Check the `docs/` folder for design patterns and architecture details
+- Configuration files are organized in the `config/` directory
+- Screenshots of the UI can be found in the `screenshots/` folder
+- CI/CD documentation is available in `docs/CI-CD-README.md`
 
 ## 🤖 CI/CD
 Automated builds and tests are handled via GitHub Actions.
