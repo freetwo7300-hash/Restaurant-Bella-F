@@ -210,9 +210,9 @@ main() {
     # Show deployment URLs
     echo ""
     echo "📱 Your application is now available at:"
+    echo "   • Vercel: https://bella-flax.vercel.app"
     echo "   • Netlify: https://bella-restaurant-$ENVIRONMENT.netlify.app"
     echo "   • Firebase: https://$PROJECT_NAME-$ENVIRONMENT.web.app"
-    echo "   • Vercel: https://$PROJECT_NAME-$ENVIRONMENT.vercel.app"
     echo "   • GitHub Pages: https://mostafa-said7.github.io/Bella/"
 }
 

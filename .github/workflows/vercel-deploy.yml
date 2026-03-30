@@ -106,4 +106,5 @@ jobs:
           text: |
             Vercel Deployment
             Environment: ${{ github.ref == 'refs/heads/main' && 'Production' || 'Staging' }}
+            Demo: https://bella-flax.vercel.app/
             Status: ${{ job.status }}

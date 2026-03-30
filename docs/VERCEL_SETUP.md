@@ -34,6 +34,8 @@ Complete guide to setting up and deploying Bella Restaurant on Vercel.
 3. Vercel will auto-detect Angular configuration
 4. Click "Deploy"
 
+**Live Demo**: https://bella-flax.vercel.app/
+
 ### 3. Get Vercel Credentials
 
 For GitHub Actions integration, you need:
@@ -64,7 +66,8 @@ Create `vercel.json` in project root:
   "framework": "angular",
   "nodeVersion": "20.x",
   "env": {
-    "NODE_ENV": "production"
+    "NODE_ENV": "production",
+    "VERCEL_URL": "https://bella-flax.vercel.app"
   },
   "headers": [
     {
@@ -234,7 +237,7 @@ npx webpack-bundle-analyzer dist/resturent/stats.json
 
 1. Go to Project Settings → Domains
 2. Click "Add Domain"
-3. Enter your domain
+3. Enter your domain (e.g., bella-flax.vercel.app)
 4. Configure DNS records:
 
 ```
@@ -250,6 +253,8 @@ Type: A
 Name: @
 Value: 76.76.19.165
 ```
+
+**Current Domain**: https://bella-flax.vercel.app/
 
 ### SSL Certificate
 

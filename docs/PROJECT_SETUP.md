@@ -187,6 +187,8 @@ Code formatting in `.prettierrc`:
 npm start
 
 # Application will be available at http://localhost:4200
+
+# Live Demo: https://bella-flax.vercel.app/
 ```
 
 ### Development Server Options
@@ -218,6 +220,7 @@ The development server includes HMR (Hot Module Replacement):
 - **Local**: http://localhost:4200
 - **Network**: http://your-ip:4200
 - **Mobile**: Use network URL on mobile device
+- **Live Demo**: https://bella-flax.vercel.app/
 
 ## Build Process
 
@@ -540,6 +543,7 @@ npx eslint --cache --cache-location .eslintcache --fix src/
 2. Review documentation: `/docs`
 3. Check Angular docs: https://angular.io/docs
 4. Ask in discussions: https://github.com/your-org/resturent/discussions
+5. View live demo: https://bella-flax.vercel.app/
 
 ## Next Steps
 

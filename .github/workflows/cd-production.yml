@@ -103,20 +103,15 @@ jobs:
         draft: false
         prerelease: false
     
-    - name: Notify Teams
-      uses: 8398a7/action-slack@v3
-      if: always()
-      with:
-        status: ${{ job.status }}
-        channel: '#production-deployments'
-        webhook_url: ${{ secrets.SLACK_WEBHOOK }}
-        fields: repo,message,commit,author,action,eventName,ref,workflow
-    
-    - name: Notify Vercel - Lint Status
-      if: always()
+    - name: Notify Slack - Deployment Status
+      if: github.event_name == 'push'
       uses: 8398a7/action-slack@v3
       with:
         status: ${{ job.status }}
         channel: '#deployments'
         webhook_url: ${{ secrets.SLACK_WEBHOOK }}
-        text: 'Vercel - bella: lint - Production Deployment - Status: ${{ job.status }}'
+        fields: repo,message,commit,author,action,eventName,ref,workflow
+        text: |
+          Production Deployment Complete
+          Demo: https://bella-flax.vercel.app/
+          Status: ${{ job.status }}

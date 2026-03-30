@@ -124,11 +124,11 @@ jobs:
 
 1. Add `CNAME` file to `public/` folder:
    ```
-   yourdomain.com
+   bella-flax.vercel.app
    ```
 
 2. Configure DNS records:
-   - Add CNAME record pointing to `username.github.io`
+   - Add CNAME record pointing to `cname.vercel-dns.com`
 
 ## Netlify
 
@@ -150,6 +150,7 @@ jobs:
    ```
    NODE_ENV=production
    API_BASE_URL=https://api.example.com
+   VERCEL_URL=https://bella-flax.vercel.app
    ```
 
 ### Netlify Configuration

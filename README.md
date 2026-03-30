@@ -18,6 +18,8 @@ npm start
 # Open http://localhost:4200
 ```
 
+**Live Demo**: https://bella-flax.vercel.app/
+
 For detailed setup instructions, see [PROJECT_SETUP.md](docs/PROJECT_SETUP.md).
 
 ## 📚 Documentation
@@ -222,6 +224,8 @@ git push origin feature/your-feature
 For security concerns, see [SECURITY.md](docs/SECURITY.md).
 
 To report a vulnerability, email: security@example.com
+
+**Live Demo**: https://bella-flax.vercel.app/
 
 ## 📋 Requirements
 
