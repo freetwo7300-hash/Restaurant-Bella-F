@@ -5,9 +5,10 @@ Thank you to all contributors who have helped make Bella Restaurant better!
 ## Core Team
 
 ### Project Lead
-- **[Your Name]** - Project Owner & Lead Developer
-  - GitHub: [@your-username](https://github.com/your-username)
-  - Email: your.email@example.com
+- **Mostafa SAID** - Project Owner & Lead Developer
+  - GitHub: [@Mostafa-SAID7](https://github.com/Mostafa-SAID7)
+  - Email: m.ssaid356@gmail.com
+  - Portfolio: https://m-said-portfolio.netlify.app/
 
 ## Contributors
 

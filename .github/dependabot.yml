@@ -9,9 +9,9 @@ updates:
       time: "03:00"
     open-pull-requests-limit: 10
     reviewers:
-      - "owner-username"
+      - "Mostafa-SAID7"
     assignees:
-      - "owner-username"
+      - "Mostafa-SAID7"
     labels:
       - "dependencies"
       - "npm"
@@ -37,7 +37,7 @@ updates:
       time: "04:00"
     open-pull-requests-limit: 5
     reviewers:
-      - "owner-username"
+      - "Mostafa-SAID7"
     labels:
       - "dependencies"
       - "github-actions"
@@ -55,7 +55,7 @@ updates:
       time: "05:00"
     open-pull-requests-limit: 5
     reviewers:
-      - "owner-username"
+      - "Mostafa-SAID7"
     labels:
       - "dependencies"
       - "docker"

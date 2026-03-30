@@ -18,12 +18,12 @@ Thank you for your interest in contributing to Bella Restaurant! This document p
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/your-username/resturent.git
-   cd resturent
+   git clone https://github.com/Mostafa-SAID7/Bella.git
+   cd Bella
    ```
 3. Add upstream remote:
    ```bash
-   git remote add upstream https://github.com/original-org/resturent.git
+   git remote add upstream https://github.com/Mostafa-SAID7/Bella.git
    ```
 
 ## Development Setup

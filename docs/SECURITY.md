@@ -2,7 +2,7 @@
 
 ## Reporting Security Vulnerabilities
 
-If you discover a security vulnerability in Bella Restaurant, please email security@example.com instead of using the issue tracker.
+If you discover a security vulnerability in Bella Restaurant, please email m.ssaid356@gmail.com instead of using the issue tracker.
 
 **Please include:**
 - Description of the vulnerability
@@ -227,6 +227,6 @@ All dependencies are vetted for security:
 
 ## Contact
 
-For security concerns, contact: security@example.com
+For security concerns, contact: m.ssaid356@gmail.com
 
 Thank you for helping keep Bella Restaurant secure!

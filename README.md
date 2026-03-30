@@ -6,8 +6,8 @@ A premium restaurant landing page built with **Angular 19**, featuring modern ar
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/resturent.git
-cd resturent
+git clone https://github.com/Mostafa-SAID7/Bella.git
+cd Bella
 
 # Install dependencies
 npm install
@@ -202,7 +202,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/your-username/resturent.git
+git clone https://github.com/Mostafa-SAID7/Bella.git
 
 # 2. Create feature branch
 git checkout -b feature/your-feature
@@ -223,9 +223,11 @@ git push origin feature/your-feature
 
 For security concerns, see [SECURITY.md](docs/SECURITY.md).
 
-To report a vulnerability, email: security@example.com
+To report a vulnerability, email: m.ssaid356@gmail.com
 
 **Live Demo**: https://bella-flax.vercel.app/
+
+**Portfolio**: https://m-said-portfolio.netlify.app/
 
 ## 📋 Requirements
 
@@ -245,9 +247,10 @@ See [CHANGELOG.md](docs/CHANGELOG.md) for version history.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-org/resturent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/resturent/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Mostafa-SAID7/Bella/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Mostafa-SAID7/Bella/discussions)
 - **Documentation**: [docs/INDEX.md](docs/INDEX.md)
+- **Portfolio**: https://m-said-portfolio.netlify.app/
 
 ## 📄 License
 
@@ -259,4 +262,4 @@ See [CONTRIBUTORS.md](docs/CONTRIBUTORS.md) for list of contributors.
 
 ---
 
-**[📖 View Complete Documentation](docs/INDEX.md)** | **[🐛 Report Issue](https://github.com/your-org/resturent/issues)** | **[💬 Start Discussion](https://github.com/your-org/resturent/discussions)**
+**[📖 View Complete Documentation](docs/INDEX.md)** | **[🐛 Report Issue](https://github.com/Mostafa-SAID7/Bella/issues)** | **[💬 Start Discussion](https://github.com/Mostafa-SAID7/Bella/discussions)** | **[👤 Portfolio](https://m-said-portfolio.netlify.app/)**

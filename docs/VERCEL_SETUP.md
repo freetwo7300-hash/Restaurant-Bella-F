@@ -457,7 +457,8 @@ export default function handler(req, res) {
 
 - [Vercel Support](https://vercel.com/support)
 - [Vercel Community](https://github.com/vercel/vercel/discussions)
-- [GitHub Issues](https://github.com/your-org/resturent/issues)
+- [GitHub Issues](https://github.com/Mostafa-SAID7/Bella/issues)
+- [Portfolio](https://m-said-portfolio.netlify.app/)
 
 ---
 

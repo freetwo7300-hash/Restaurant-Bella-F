@@ -190,9 +190,10 @@ Have suggestions for documentation?
 - [PrimeNG Components](https://primeng.org/)
 
 ### GitHub Resources
-- [Issues](https://github.com/your-org/resturent/issues)
-- [Discussions](https://github.com/your-org/resturent/discussions)
-- [Pull Requests](https://github.com/your-org/resturent/pulls)
+- [Issues](https://github.com/Mostafa-SAID7/Bella/issues)
+- [Discussions](https://github.com/Mostafa-SAID7/Bella/discussions)
+- [Pull Requests](https://github.com/Mostafa-SAID7/Bella/pulls)
+- [Portfolio](https://m-said-portfolio.netlify.app/)
 
 ## Last Updated
 

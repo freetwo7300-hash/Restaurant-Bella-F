@@ -56,10 +56,10 @@ Complete guide to setting up the Bella Restaurant project for development.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/resturent.git
+git clone https://github.com/Mostafa-SAID7/Bella.git
 
 # Navigate to project directory
-cd resturent
+cd Bella
 ```
 
 ### 2. Install Dependencies
@@ -400,7 +400,7 @@ docker-compose logs -f
 git config user.name "Your Name"
 
 # Set user email
-git config user.email "your.email@example.com"
+git config user.email "m.ssaid356@gmail.com"
 
 # Set default branch
 git config --global init.defaultBranch main
@@ -539,11 +539,12 @@ npx eslint --cache --cache-location .eslintcache --fix src/
 
 ### Getting Help
 
-1. Check existing issues: https://github.com/your-org/resturent/issues
+1. Check existing issues: https://github.com/Mostafa-SAID7/Bella/issues
 2. Review documentation: `/docs`
 3. Check Angular docs: https://angular.io/docs
-4. Ask in discussions: https://github.com/your-org/resturent/discussions
+4. Ask in discussions: https://github.com/Mostafa-SAID7/Bella/discussions
 5. View live demo: https://bella-flax.vercel.app/
+6. Visit portfolio: https://m-said-portfolio.netlify.app/
 
 ## Next Steps
 
