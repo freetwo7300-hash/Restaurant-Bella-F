@@ -9,6 +9,12 @@
   "env": {
     "NODE_ENV": "production"
   },
+  "functions": {
+    "api/**/*.ts": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
   "rewrites": [
     {
       "source": "/(.*)",
@@ -47,7 +53,7 @@
       ]
     },
     {
-      "source": "/*.js",
+      "source": "/(.*)\\.js",
       "headers": [
         {
           "key": "Cache-Control",
@@ -56,7 +62,7 @@
       ]
     },
     {
-      "source": "/*.css",
+      "source": "/(.*)\\.css",
       "headers": [
         {
           "key": "Cache-Control",
